@@ -1,14 +1,15 @@
-## github-tutorial
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
+## FCOR 599 Project - Wildfire in BC
+- ### Research Question: 
+    How can ArcGIS-based spatial analysis of topography, vegetation, climate, and proximity to human infrastructure be used to identify areas at greatest risk of wildfire in British Columbia? 🚀
 
-Now that you're here...
-Please follow the steps below: 
+- ### Introduction
+    Wildfires are increasingly altering the landscape of British Columbia. Each summer, these fires 
+    exhibit greater speed, reach higher temperatures, and reach close to communities.
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch and Fork repo - say "yes I want to make this a fork" since you won't have write access to the repo
-5. Edit the README.md file and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and **submit on Canvas to recieve a participation grade**
+    This project asks: how can ArcGIS-based spatial analysis of topography, vegetation, climate, and 
+    proximity to human infrastructure be used to identify areas at greatest risk of wildfire in British Columbia? By answering this question, this research will create a fire risk map and a future fire prediction interactive map, providing support for fire prevention efforts and enhancing the community's disaster resilience.
+
+
+
+
 
